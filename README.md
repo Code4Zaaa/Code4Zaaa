@@ -20,4 +20,4 @@ I've been learning to code for 3 years. Most of my repos are private.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/x7Vynth"><img src="https://github-readme-stats.vercel.app/api?username=x7Vynth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Code4Zaaa's GitHub stats" /></a>
+<a href="http://www.github.com/Code4Zaaa"><img src="https://github-readme-stats.vercel.app/api?username=x7Vynth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Code4Zaaa's GitHub stats" /></a>
