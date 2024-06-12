@@ -9,8 +9,8 @@ Full Stack Developer
 I've been learning to code for 3 years. Most of my repos are private.
 
 * 🌍  I'm based in Indonesian
-* ✉️  You can contact me at [x7Vynth@gmail.com](mailto:x7Vynth@gmail.com)
-* 🧠  I'm learning C++
+* ✉️  You can contact me at [code4zaa.dev@code4zaa.xyz](mailto:code4zaa.dev@code4zaa.xyz)
+* 🧠  I'm learning Dart
 
 ### Socials
 
