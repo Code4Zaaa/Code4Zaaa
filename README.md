@@ -1,7 +1,7 @@
 ```python
 C:\Users\forzaa\Desktop>py info.py
 
-class Levy:
+class Forzaaa:
 
     def __init__(self):
         self.age = 17
