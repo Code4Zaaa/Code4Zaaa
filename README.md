@@ -1,23 +1,58 @@
-### Hi there 👋
+```python
+C:\Users\forzaa\Desktop>py info.py
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Code4Zaaa
-============================================================================================================================
+class Levy:
 
-Full Stack Developer
---------------------
+    def __init__(self):
+        self.age = 17
 
-I've been learning to code for 3 years. Most of my repos are private.
+    def __info__(self):
+        self.bio = '''
+            Just a normal Software Engineer.
+            I mainly program in NodeJS.
+        '''
 
-* 🌍  I'm based in Indonesian
-* ✉️  You can contact me at [code4zaa.dev@code4zaa.xyz](mailto:code4zaa.dev@code4zaa.xyz)
-* 🧠  I'm learning Dart
+    def __social__(self):
+        socials = {
+            "Instagram": "https://www.instagram.com/zaaa81.hx/",
+            "Discord": ("forzaa", 546160255378259970)
+        }
 
-### Socials
+    def __dev__(self):
+        skills = {
+            "Html": "Know",
+            "Css": "Know",
+            "Python": "Know",
+            "Node.js": "Know",
+            "C++": "Know",
+            "PHP": "Know",
+            "CSharp": "Know"
+        }
 
-<p align="left"> <a href="https://discord.com/users/546160255378259970" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Code4Zaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+C:\Users\forzaa\Desktop>
+```
 
-### Badges
+<div align="center">
+  
+![](https://moe-counter.glitch.me/get/@Code4Zaaa?theme=rule34)
 
-<b>My GitHub Stats</b>
+## 🌐 | Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](TSdpyMMfrU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4levyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/code4zaaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zaaa81.hx) 
 
-<a href="http://www.github.com/Code4Zaaa"><img src="https://github-readme-stats.vercel.app/api?username=Code4Zaaa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Code4Zaaa's GitHub stats" /></a>
+# 📊 | GitHub Stats:
+![](https://raw.githubusercontent.com/Code4Zaaa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Code4Zaaa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Code4Zaaa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Code4Zaaa/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+## 🏆 | GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Code4Zaaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 💻 | Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Code4Zaaa&icon=2&color=12)](https://visitcount.itsvg.in)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/546160255378259970)](https://discord.com/users/546160255378259970)
+</div>
