@@ -14,8 +14,8 @@ class Forzaaa:
 
     def __social__(self):
         socials = {
-            "Instagram": "https://www.instagram.com/zaaa81.hx/",
-            "Discord": ("forzaa", 546160255378259970)
+            "Instagram": "https://www.instagram.com/forzaa_dev/",
+            "Discord": ("code4zaa.dev", 546160255378259970)
         }
 
     def __dev__(self):
