@@ -55,5 +55,5 @@ C:\Users\forzaa\Desktop>
 ---
 [![](https://visitcount.itsvg.in/api?id=Code4Zaaa&icon=2&color=12)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/546160255378259970)](https://discord.com/users/546160255378259970)
+[![Discord Presence](https://lanyard.cnrad.dev/api/546160255378259970/?animatedDecoration=true)](https://discord.com/users/546160255378259970)
 </div>
