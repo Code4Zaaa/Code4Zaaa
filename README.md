@@ -55,7 +55,7 @@ C:\Users\forzaa\Desktop>
 ---
 [![](https://visitcount.itsvg.in/api?id=Code4Zaaa&icon=2&color=12)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/546160255378259970/?animatedDecoration=true)](https://discord.com/users/546160255378259970)
+[![Discord Presence](https://api.lanyard.rest/v1/users/546160255378259970/?animatedDecoration=true)](https://discord.com/users/546160255378259970)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code4Zaaa&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 </div>
