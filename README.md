@@ -4,7 +4,7 @@ C:\Users\forzaa\Desktop>py info.py
 class Forzaaa:
 
     def __init__(self):
-        self.age = 17
+        self.age = 18
 
     def __info__(self):
         self.bio = '''
@@ -24,6 +24,7 @@ class Forzaaa:
             "Css": "Know",
             "Python": "Know",
             "Node.js": "Know",
+            "React": "Know";
             "C++": "Know",
             "PHP": "Know",
             "CSharp": "Know"
