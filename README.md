@@ -24,7 +24,7 @@ class Forzaaa:
             "Css": "Know",
             "Python": "Know",
             "Node.js": "Know",
-            "React": "Know";
+            "React": "Know",
             "C++": "Know",
             "PHP": "Know",
             "CSharp": "Know"
